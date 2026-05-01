@@ -100,27 +100,6 @@ You may show a QR code to the customer for checkout. Codes are generated client-
 
 ### Code Examples
 
-You are also free to build your own integration per your game's requirements. Mappings for the Tebex Headless API makes this easy. Here are some examples for common use cases:
+You are also free to build your own integration per your game's requirements. Mappings for the Tebex Headless API makes this easy. 
 
-#### 1. Fetching Packages Available
-```csharp
-```
-
-#### 2. Creating a Cart
-```csharp
-```
-
-#### 3. Checking Out
-```csharp
-```
-
-#### 4. Showing a QR Code
-```csharp
-```
-
-#### 5. Apply Deliverables / Unlock Purchases
-```csharp
-
-```
-
-### Unity Package
+For in-depth code examples and documentation, see our GitBook: https://docs.tebex.io/developers/unity-engine/examples
